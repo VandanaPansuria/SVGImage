@@ -44,4 +44,3 @@ Add code in viewdidload() Method:
 ### OUTPUT
 
 ![alt text](https://github.com/VandanaPansuria/SVGImage/blob/master/Screenshot%202020-03-28%20at%207.21.47%20PM.png)
-![alt text](https://github.com/VandanaPansuria/SVGImage/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-28%20at%2019.21.49.png)
