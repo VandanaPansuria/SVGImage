@@ -43,4 +43,4 @@ Add code in viewdidload() Method:
 
 ### OUTPUT
 
-https://github.com/VandanaPansuria/SVGImage/blob/master/Screenshot%202020-03-28%20at%207.21.47%20PM.png
+![alt text](https://github.com/VandanaPansuria/SVGImage/blob/master/Screenshot%202020-03-28%20at%207.21.47%20PM.png)
