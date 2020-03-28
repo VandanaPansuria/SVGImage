@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-SVGImage/Pods-SVGImage-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SDWebImageSVGCoder/SDWebImageSVGCoder.framework
